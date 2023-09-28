@@ -15,6 +15,7 @@
     background-color: #13678A;
     font-size: 25px;
     font-family: monospace;
+    font-weight: bold;
 }
 
 .divD {
@@ -26,5 +27,5 @@
 .divE {
     width: 10vw;
     height: 60%;
-    background-color: #9AEBA3;
+    background-color: rgb(154, 235, 163);
 }
